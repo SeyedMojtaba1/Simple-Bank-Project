@@ -1,7 +1,3 @@
-Here's a detailed README for the "BankProject":
-
----
-
 # BankProject
 
 BankProject is a simple Ethereum smart contract for a basic banking system. It allows the owner of the contract to deposit, withdraw, and check their balance securely. The contract uses the SafeMath library to prevent overflows and underflows in arithmetic operations.
